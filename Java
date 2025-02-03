@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded", function() {
+    const message = document.querySelector(".message");
+    message.style.opacity = "1";
+});
